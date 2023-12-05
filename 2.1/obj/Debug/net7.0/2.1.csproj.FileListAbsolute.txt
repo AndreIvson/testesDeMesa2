@@ -1,0 +1,14 @@
+D:\TestesBNE2\2.1\obj\Debug\net7.0\2.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestesBNE2\2.1\obj\Debug\net7.0\2.1.AssemblyInfoInputs.cache
+D:\TestesBNE2\2.1\obj\Debug\net7.0\2.1.AssemblyInfo.cs
+D:\TestesBNE2\2.1\obj\Debug\net7.0\2.1.csproj.CoreCompileInputs.cache
+D:\TestesBNE2\2.1\bin\Debug\net7.0\2.1.exe
+D:\TestesBNE2\2.1\bin\Debug\net7.0\2.1.deps.json
+D:\TestesBNE2\2.1\bin\Debug\net7.0\2.1.runtimeconfig.json
+D:\TestesBNE2\2.1\bin\Debug\net7.0\2.1.dll
+D:\TestesBNE2\2.1\bin\Debug\net7.0\2.1.pdb
+D:\TestesBNE2\2.1\obj\Debug\net7.0\2.1.dll
+D:\TestesBNE2\2.1\obj\Debug\net7.0\refint\2.1.dll
+D:\TestesBNE2\2.1\obj\Debug\net7.0\2.1.pdb
+D:\TestesBNE2\2.1\obj\Debug\net7.0\2.1.genruntimeconfig.cache
+D:\TestesBNE2\2.1\obj\Debug\net7.0\ref\2.1.dll
